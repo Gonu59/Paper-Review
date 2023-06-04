@@ -37,7 +37,7 @@ mtl의 동기는 데이터 희소의 문제를 완화하고자임. mtl은 모든
 "모든 task 또는 그들의 subset이 연관되어 있는 m개의 learning tasks $\\{T_i\\}^m_i=1$이 주어졌을 때, MTL은 모든 task 또는 다른 task들과 서로 포함되는 knowledge를 이용하여 모든 각각의 task $T_i$에 대한 성능이 높아지는 것에 목적을 둔다."   
 대부분의 mtl 연구가 supervised learning으로 setting되어 있기 때문에 이 섹션에선 supervised learning으로 초점을 맞춤.   
 
-각각의 task $T_i$는 training dataset $D_i$ 를 수반한다.   
+각각의 task $T_i$는 training dataset $D_i$ 에 수반된다.   
 - homogeneous-feature MTL: 서로 다른 task가 동일한 feature space에 있는 경우   
 - heterogeneous-feature MTL: 서로 다른 task가 다른 feature space에 있는 경우   
 일반적인 경우 homogeneous-feature MTL이다.    
