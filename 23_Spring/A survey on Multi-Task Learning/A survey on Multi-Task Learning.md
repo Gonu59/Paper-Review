@@ -67,5 +67,7 @@ parameter-based MTL에는 주요 접근법으로 다음 4가지가 있다.
 
 ### 2.1 Feature Learning Approach
 
+### 2.1.1 Feature Transformation Approach
+multi layer feedforward network를 생각해보면 쉽다.
 
 
